@@ -1,48 +1,64 @@
-**QllmSoft** builds secure, scalable enterprise web applications, internal business systems, mobile apps, and AI-powered digital solutions for growing businesses across four continents.
+<div align="center">
 
-[qllmsoft.com](https://qllmsoft.com) · [Blog](https://qllmsoft.com/blog) · [Services](https://qllmsoft.com/services) · [Projects](https://qllmsoft.com/projects) · [Contact](https://qllmsoft.com/contact)
+# QllmSoft
+
+**Build Digital. Think Intelligent. Shape the Future.**
+
+Secure, scalable web apps, mobile apps and AI-powered software for growing businesses, built by an in-house engineering team since 2015.
+
+[![Website](https://img.shields.io/badge/Website-qllmsoft.com-073e84?style=for-the-badge)](https://qllmsoft.com)
+[![QllmDocs](https://img.shields.io/badge/Product-QllmDocs-edb702?style=for-the-badge&labelColor=696464)](https://qllmdocs.com)
+[![Contact](https://img.shields.io/badge/Start_a_project-Contact_us-073e84?style=for-the-badge)](https://qllmsoft.com/contact)
+
+[Services](https://qllmsoft.com/services) · [Projects](https://qllmsoft.com/projects) · [Blog](https://qllmsoft.com/blog) · [LinkedIn](https://www.linkedin.com/company/qllmsoft) · [X](https://www.x.com/qllmsoft) · [YouTube](https://www.youtube.com/@qllmsoft)
+
+</div>
 
 ---
 
-### Main Product
+## Our product
 
-| Product | Description | Link |
-|---|---|---|
-| **QllmDocs** | AI-based document storage service — AI-powered search, secure access, cloud-based storage. Free 90-day trial, no card required. | [qllmsoft.com](https://qllmsoft.com) |
+### [QllmDocs](https://qllmdocs.com): AI-powered document storage
 
-### By the numbers
+Store, search and share business documents securely in the cloud. AI search finds what you need in seconds, and access controls keep the right people in and everyone else out.
 
-| | |
-|---|---|
-| **10+ years** | in operation, founded 2015 |
-| **50+ projects delivered** | across 6 industries |
-| **4 continents** | served, clients worldwide |
-| **100% on-time delivery** | every project, every time |
+**Free 90-day trial. No credit card required.** → [Try QllmDocs](https://qllmdocs.com)
 
-### How we build
+---
 
-🎨 **Design-first.** Product, UX, and engineering shaped together from day one, so what we ship is genuinely useful — not just technically complete.
+## What we build for clients
 
-⚡ **In-house, end to end.** Engineering and digital marketing sit under one roof, so QllmDocs' product and growth move together instead of through a handoff.
+| Service | What you get |
+| --- | --- |
+| **Web and SaaS platforms** | Enterprise web apps, internal business systems and multi-tenant SaaS products |
+| **Mobile apps** | Cross-platform apps for iOS and Android from a single codebase |
+| **AI automation and chatbots** | Workflow automation and chatbots built into your product or operations |
+| **WordPress** | Custom themes and sites, built and maintained |
+| **Digital marketing and SEO** | Search optimization, paid advertising, and content strategies that help grow your business |
 
-🤝 **Client work, selectively.** We take on web & mobile development and digital marketing projects for outside businesses — SaaS platforms, enterprise applications, cross-platform apps — when they're a good fit, not as our primary business.
+## Our stack
 
-### What we offer
+![.NET](https://img.shields.io/badge/.NET-073e84?style=flat-square&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-073e84?style=flat-square&logo=csharp&logoColor=white)
+![React](https://img.shields.io/badge/React-073e84?style=flat-square&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-073e84?style=flat-square&logo=typescript&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-073e84?style=flat-square&logo=wordpress&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-073e84?style=flat-square&logo=githubactions&logoColor=white)
 
-| Area | What's included |
-|---|---|
-| **QllmDocs** | Our flagship AI document storage product — search, secure access, cloud storage |
-| **Web & Mobile Development** | SaaS platforms, enterprise applications, cross-platform mobile apps |
-| **WordPress Development** | Custom WordPress sites and themes, built and maintained for growing businesses |
-| **Digital Marketing and SEO** | In-house marketing, advertising, and search optimization for client projects |
-| **AI Automation and Chatbot** | AI-powered automation workflows and chatbots built into client products |
+## By the numbers
 
-### Learn more
+| 10+ years | 50+ projects | 4 continents | 6 industries |
+| :---: | :---: | :---: | :---: |
+| in operation since 2015 | delivered | clients served | worked across |
 
-- [Blog](https://qllmsoft.com/blog) — updates and writing from the team
-- [Projects](https://qllmsoft.com/projects) — client and internal work
-- [Services](https://qllmsoft.com/services) — what we take on outside of QllmDocs
+## How we work
 
-### Contact
+- **Design-first.** Product, UX and engineering are shaped together from day one.
+- **In-house, end to end.** Engineering and marketing under one roof, with no hand-offs between agencies.
+- **Secure by default.** Code review on every change, automated testing and dependency scanning, and least-privilege access.
+- **Selective.** We take on outside projects when they're a good fit, so each one gets real attention.
 
-Interested in [QllmDocs](https://qllmdocs.com), or have a project in mind? Reach out via [qllmsoft.com/contact](https://qllmsoft.com/contact).
+## Work with us
+
+Have a project in mind or want a QllmDocs demo? Reach us at [qllmsoft.com/contact](https://qllmsoft.com/contact) or [info@qllmsoft.com](mailto:info@qllmsoft.com).
+
