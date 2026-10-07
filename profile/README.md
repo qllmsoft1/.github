@@ -1,8 +1,5 @@
 <div align="center">
 
-# QllmSoft
-
-**Build Digital. Think Intelligent. Shape the Future.**
 
 Secure, scalable web apps, mobile apps and AI-powered software for growing businesses, built by an in-house engineering team since 2015.
 
